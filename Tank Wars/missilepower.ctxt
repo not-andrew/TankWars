@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=missilepower
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ missilepower\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=World
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animate()
+comment4.params=
+comment4.target=void\ staywithmouse()
+comment5.params=
+comment5.target=void\ rocketbarrage()
+numComments=6
